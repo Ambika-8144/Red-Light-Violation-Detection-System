@@ -131,7 +131,7 @@ Red-Light-Violation-Detection-System
 
 ## 👨‍💻 Author
 
-### T. Shirisha
+### P AMBIKA
 
 B.E. Artificial Intelligence & Data Science
 
